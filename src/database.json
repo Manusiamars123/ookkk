@@ -2562,6 +2562,61 @@
       "premium": "true",
       "limit": 1000,
       "totalLimit": 0
+    },
+    "6287860196317@s.whatsapp.net": {
+      "serialNumber": "122aea6962e770197b5066888af5e034",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "+62 878-6019-6317",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6285362042405@s.whatsapp.net": {
+      "serialNumber": "c3b37394ffc58a78485c711874940fb1",
+      "title": "Premium",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Yusp",
+      "premium": "true",
+      "limit": 1000,
+      "totalLimit": 0
+    },
+    "6281349158980@s.whatsapp.net": {
+      "serialNumber": "2c52317c7dfa76dbbd0446d894211eba",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "A🌫️",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6282321115625@s.whatsapp.net": {
+      "serialNumber": "8f29deac6a2b1b75e8a82fcd7501941c",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "Richo Andani",
+      "premium": "false",
+      "limit": 100,
+      "totalLimit": 0
+    },
+    "6281528749254@s.whatsapp.net": {
+      "serialNumber": "407679af004a9b2ae370a57ca23e1e4f",
+      "title": "User",
+      "afkTime": -1,
+      "badword": 0,
+      "afkReason": "",
+      "nick": "dzakidzakiraihanpriyanto",
+      "premium": false,
+      "limit": 100,
+      "totalLimit": 0
     }
   },
   "database": {},
@@ -3591,6 +3646,60 @@
       "anticontact": false,
       "antilink": false,
       "antilinkgc": false
+    },
+    "6287860196317@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "6285362042405@s.whatsapp.net": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
+    },
+    "120363298572568546@g.us": {
+      "badword": false,
+      "antiforeignnum": false,
+      "antibot": false,
+      "antiviewonce": false,
+      "antivirtex": false,
+      "antimedia": false,
+      "antiimage": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antipoll": false,
+      "antisticker": false,
+      "antilocation": false,
+      "antidocument": false,
+      "anticontact": false,
+      "antilink": false,
+      "antilinkgc": false
     }
   },
   "game": {
@@ -3744,6 +3853,36 @@
         "owner": {
           "nick": "+62 831-2344-8708",
           "alias": "6283123448708"
+        }
+      }
+    },
+    "6287860196317@s.whatsapp.net": {
+      "totalhit": 26,
+      "totalError": 0,
+      "online": false,
+      "autosticker": false,
+      "autobio": false,
+      "autoread": false,
+      "autoblocknum": false,
+      "onlyindia": false,
+      "onlyindo": false,
+      "onlygrub": false,
+      "onlypc": false,
+      "autorecordtype": false,
+      "autorecord": false,
+      "autotype": false,
+      "watermark": {
+        "packname": "Yuta MD",
+        "author": "anjas - Pack"
+      },
+      "about": {
+        "bot": {
+          "nick": "+62 878-6019-6317",
+          "alias": "anjaszz"
+        },
+        "owner": {
+          "nick": "+62 878-6019-6317",
+          "alias": "6287860196317"
         }
       }
     }
